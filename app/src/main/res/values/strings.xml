@@ -3,4 +3,7 @@
     <string name="todos">TODO\'s</string>
     <string name="notes">Notizen</string>
     <string name="image">image</string>
+    <string name="actual">Aktuelles</string>
+    <string name="done">Erledigt</string>
+    <string name="title_activity_todo_list">TodoList</string>
 </resources>
